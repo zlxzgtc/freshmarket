@@ -9,7 +9,7 @@ public class DBUtil {
 
 	private static final String jdbcUrl="jdbc:mysql://localhost:3306/freshmarket?characterEncoding=gbk&useSSL=false";
 	private static final String dbUser="root";
-	private static final String dbPwd="zlx,159357";
+	private static final String dbPwd="xxxxx";
 	private static ComboPooledDataSource ds=null;
 	static{
 		ds=new ComboPooledDataSource();
